@@ -1,4 +1,4 @@
-# Quick Quiz Application
+# Quick Quiz Application on React.js
 
 Use:
 
